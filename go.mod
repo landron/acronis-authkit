@@ -1,6 +1,6 @@
 module github.com/acronis/go-authkit
 
-go 1.21
+go 1.20
 
 require (
 	github.com/acronis/go-appkit v1.14.0
